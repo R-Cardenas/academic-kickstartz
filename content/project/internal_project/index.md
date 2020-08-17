@@ -41,9 +41,9 @@ Dr Mark Williams provided us with high quality DNA-exome sequence from 3D cultur
 
 
 
-
-
 {{< embedpdf url="tumoroid_mock_v0.1.pdf" >}}
+
+
 
 
 
