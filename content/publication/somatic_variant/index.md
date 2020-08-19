@@ -1,9 +1,7 @@
 ---
 title: "Somatic variant caller"
-authors:
-- admin
 date: "2020-09-07T00:00:00Z"
-doi: ""
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-01T00:00:00Z"
@@ -21,11 +19,11 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Following the sample QC, our somatic pipeline can be performed on matched tumor normal samples  
+summary: Following the sample QC, our somatic pipeline can be performed on tumor-normal matched samples. Samples are analysed using Sanger's variant pipelines for exome (cgpWXS) or whole-genome sequencing (cgpWGS) in addition our inhouse pipeline that utlises Mutect2 and the GATK workflow tools.
 
 tags:
 - Other pipelines
-featured: false
+featured: true
 
 links:
 - name: github QC
