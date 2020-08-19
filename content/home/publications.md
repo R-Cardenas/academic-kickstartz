@@ -24,7 +24,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Other pipelines"
     category = ""
     publication_type = "0"
     author = ""
